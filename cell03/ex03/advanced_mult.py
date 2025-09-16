@@ -4,7 +4,7 @@ i,j = 0,0
 if len(sys.argv) > 1:
     print("none")
     exit()
-while i <= 10:
+while i <= 10: 
     j = 0
     print(f"Table de {i}: " ,end="")
     while j <= 10:
