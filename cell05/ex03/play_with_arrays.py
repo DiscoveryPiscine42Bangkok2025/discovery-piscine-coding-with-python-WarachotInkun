@@ -9,5 +9,5 @@ for i in arrNN:
     if arrNN.count(i) > 1:
         arrNN.remove(i)
 
-
+print(arr)
 print(set(arrNN))
